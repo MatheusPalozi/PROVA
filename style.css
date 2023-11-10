@@ -1,17 +1,13 @@
 body {
-    align-items: center;
     font-family: Arial, sans-serif;
     margin: 40px;
     background-color: #f4f4f4;
 }
 
 h1 {
-    color: #ff0000;
-    font-size: 100px;
-    font-family: 'Times New Roman', Times, serif;
-    text-align: center;
+    color: #333;
 }
 
 p {
-    color: #1eff00;
+    color: #666;
 }
